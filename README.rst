@@ -70,6 +70,7 @@ Related projects
 - `WTalk`_: Client library and desktop client for Google Hangouts written in C#
 - `hangover`_: The first native Mac OS X client for Google Hangouts
 - `hangupsjs`_: Port of hangups to Node.js
+- 'wadebot'_: Version of hangupsbot adapted to Deadpool
 - `Parrot`_: The next generation messenger
 - `purple-hangouts`_: Hangouts plugin for libpurple
 - `go-hangups`_: Port of hangups to Go
